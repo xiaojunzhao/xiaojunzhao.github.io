@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Word2Vec Implementation Using Pure Python
-permalink: /Word2Vec-Python/
+permalink: /blog/Word2Vec-Python/
 ---
 
 <p style='text-align: justify;'>The implementation of Skip-gram model is based on the paper: 
