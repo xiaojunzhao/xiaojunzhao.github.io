@@ -1,6 +1,6 @@
 ---
 layout: photo_set
-title: Berlin
+title: Climbing
 permalink: /climbing/
 description: "My Climbing Adventure"
 
