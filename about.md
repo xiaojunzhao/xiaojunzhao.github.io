@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-I'm currently a **Data Scientist** at the research center of **United Technologies Corporation (UTC)** with a background in computational geometry. I have over 4 years of extensive quantitative research/data science experience in various areas, such as Predictive Analysis, Prognostics Health & Monitoring, Cybersecurity, Natural Language Processing, etc, with a proven track record of developing and implementing statistical/machine learning algorithms that have significantly impacted business revenues, and solve a variety of real world industry problems. 
+I'm currently a **Data Scientist** at the research center of **United Technologies Corporation (UTC)** with a background in compuational aided desgin. I have over 4 years of extensive quantitative research/data science experience in various areas, such as Predictive Analysis, Prognostics Health & Monitoring, Cybersecurity, Natural Language Processing, etc, with a proven track record of developing and implementing statistical/machine learning algorithms that have significantly impacted business revenues, and solve a variety of real world industry problems. 
 
 ### More Information
 
