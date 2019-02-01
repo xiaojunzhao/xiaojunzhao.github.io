@@ -8,10 +8,10 @@ layout: default
 <ul>
   {% for i in (1..num) %}
   <li>
-    <img src="{{ site.baseurl }}/gallery/photos/{{ page.photos.set }}{{ i }}.jpg" alt="Photo {{ i }} from {{ page.photos.set | capitalize }}">
+    <img src="{{ site.baseurl }}/gallery/photos/{{ page.photos.set }}{{ i }}.jpg" alt="Photo {{ i }} from {{ page.photos.set | capitalize }}" style="width: 50%; height: 50%">
   </li>
   {% endfor %}
 </ul>
 <div>
-  <a href="{{ site.baseurl }}/photos/">View All Photo Sets</a>
+  <a href="{{ site.baseurl }}/gallery/">View All Photo Sets</a>
 </div>
