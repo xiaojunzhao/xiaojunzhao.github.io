@@ -9,8 +9,8 @@ I'm currently a **Data Scientist** at the research center of **United Technologi
 ### More Information
 
 
-I've been climbing since Feb 2018, and currently can consistently climb **V5(6C+)** indoors. 
-It’s the parallels between climbing and life that fascinate me. The chance to explore inwardly, to understand who I am, where my limits lie and how I can live more and become more. Every day is a school day and I learn something new. There is no success or failure, it’s about trying and learning. 
+I started my climbing adventure one year ago, and currently can consistently climb **V5(6C+)** indoors. To me, climbing is less of a sport and more of a lifestyle to me. I've got bruises,scrapes, splits and fear of falling, but it never stops me from overcoming those boulder problems on the wall.  It’s the parallels between climbing and life that fascinate me. It provides me the chance to explore inwardly, to understand who I am, where my limits lie and how I can live more and become more. It doesn't help fix all wrongs in my life, but gives me the drive and resillience to face them in the future. 
+
 
 
 ### Contact me
