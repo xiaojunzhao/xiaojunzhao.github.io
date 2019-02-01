@@ -6,5 +6,5 @@ description: "My Climbing Adventure"
 
 photos:
     set: climbing
-    size: 3
+    size: 2
 ---
